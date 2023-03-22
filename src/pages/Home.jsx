@@ -12,7 +12,7 @@ export const Home = () => {
                     <ItemListContainer greeting = "All products" />
                 </div>
                     <Footer />
-            </div>
+            </div> 
         </div> 
     )
 }
